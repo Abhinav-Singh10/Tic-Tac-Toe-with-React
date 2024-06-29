@@ -9,11 +9,11 @@ This Tic Tac Toe game is a simple implementation using React. Players alternate 
 - **Draw Condition**: Identifies when the game ends in a draw.
 - **Restart Option**: Easily reset the game at any time.
 
-![initial state](.\screenshots\initial_state.PNG)
+![initial_state](./screenshots/initial_state.PNG)
 
-![game state](.\screenshots\game_state.PNG)
+![game_state](./screenshots/game_state.PNG)
 
-![winner](.\screenshots\winner.PNG)
+![winner](./screenshots/winner.PNG)
 
 
 
